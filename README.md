@@ -54,7 +54,7 @@ Mid-term exam 2026 additional tasks: [tasks](Materials/midterm_2026_test.pdf), [
 | 24.04.26 | -- | *No classes*	|  |
 | 01.05.26 | -- | *Public holiday. No classes.*	|  |
 | 08.05.26 | 11 | Unsupervised learning: clustering, dimension reduction, data visualization	| [Presentation](Materials/11-unsupervised.pptx)<br> Videos: [1](https://player.vimeo.com/video/941993601?h=cdcf0289c8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [2](https://player.vimeo.com/video/941993669?h=e23794b902&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [3](https://player.vimeo.com/video/941993750?h=67a21d8679&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [4](https://player.vimeo.com/video/941993833?h=1287b51bca&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479) |
-| 15.05.26 | 12 | 	|  |
+| 15.05.26 | 12 | Learning to Rank	| [Presentation](Materials/12-ranking.pptx)<br> Videos: [1](https://player.vimeo.com/video/943604801?h=d7e4164251&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [2](https://player.vimeo.com/video/942279245?h=9ebf072765&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [3](https://player.vimeo.com/video/942279284?h=b4ff658bcd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [4](https://player.vimeo.com/video/942279312?h=4707ecf6f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479) |
 
 
 ## Literature
